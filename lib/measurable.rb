@@ -10,6 +10,8 @@ require 'measurable/chebyshev'
 require 'measurable/maxmin'
 require 'measurable/haversine'
 
+require 'measurable/pearson'
+
 module Measurable
   # PI / 180 degrees.
   RAD_PER_DEG = Math::PI / 180
