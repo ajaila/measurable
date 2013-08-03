@@ -1,3 +1,5 @@
+require File.join(File.dirname(__FILE__), "/../spec_helper")
+
 describe "Jaccard" do
 
   context "Index" do

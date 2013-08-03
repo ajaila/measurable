@@ -11,9 +11,9 @@ Gem::Specification.new do |gem|
   gem.summary = %Q{A Ruby gem with a lot of distance measures for your projects.}
   gem.description = %Q{A Ruby gem with a lot of distance measures for your projects.}
 
-  gem.authors = ["Carlos Agarie"]
-  gem.email = "carlos.agarie@gmail.com"
-  gem.homepage = "http://github.com/agarie/measurable"
+  gem.authors = ["Carlos Agarie", "Max Makarochkin"]
+  gem.email = "maxim.makarochkin@gmail.com"
+  gem.homepage = "http://github.com/ajaila/measurable"
 
   gem.files         = `git ls-files`.split("\n")
   gem.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
