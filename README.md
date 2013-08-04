@@ -4,7 +4,7 @@
     The official release will be announced later.
     Any suggestion for modification is welcome.
 
-[![Build Status](https://travis-ci.org/ajaila/measurable.png?branch=master)](https://travis-ci.org/ajaila/measurable) [![Code Climate](https://codeclimate.com/github/ajaila/measurable.png)](https://codeclimate.com/github/ajaila/measurable) [![Dependency Status](https://gemnasium.com/ajaila/measurable.png)](https://gemnasium.com/ajaila/measurable)
+[![Coverage Status](https://coveralls.io/repos/ajaila/measurable/badge.png)](https://coveralls.io/r/ajaila/measurable) [![Build Status](https://travis-ci.org/ajaila/measurable.png?branch=master)](https://travis-ci.org/ajaila/measurable) [![Code Climate](https://codeclimate.com/github/ajaila/measurable.png)](https://codeclimate.com/github/ajaila/measurable) [![Dependency Status](https://gemnasium.com/ajaila/measurable.png)](https://gemnasium.com/ajaila/measurable)
 
 ### License
 
